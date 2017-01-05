@@ -1,6 +1,6 @@
 # visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
 
-paginate: 10 # pagination based on number of posts
+paginate: 20 # pagination based on number of posts
 paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: pygments
@@ -14,17 +14,15 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: hibbisoft
 
-description: Stylish Jekyll Theme
+description: Ramblings about software development and such
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: dbtek
-  pinterest: asd123
-  linkedin: asd123
-  bio: Your stylish, minimalist theme!
+  name: Sebastian Johansson
+  email: sebastian.johansson@hibbisoft.se
+  github: https://github.com/sebbebebbe
+  twitter: https://twitter.com/sebbe_bebbe
+  linkedin: http://www.linkedin.com/in/sebastian-johansson
   email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
