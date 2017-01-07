@@ -3,24 +3,23 @@
 paginate: 10 # pagination based on number of posts
 paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
-pygments: true
+highlighter: rouge
 markdown: kramdown
 
-title: dbyll
-description: Stylish Jekyll Theme
-disqus: dbyll-ghost # add disqus short name here
+title: hibbisoft blog
+description: Software ramblings and such
+disqus: # add disqus short name here
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: dbtek
-  pinterest: asd123
-  linkedin: asd123
-  bio: Your stylish, minimalist theme!
-  email_md5: 726351295ec82e145928582f595aa3aa
+  name: Sebastian Johansson
+  email: info@hibbisoft.se
+  github: sebbebebbe
+  twitter: sebbe_bebbe
+  linkedin: sebastian-johansson
+  bio:
+  email_md5: 22328af4edf29be74bbb8d8ae823341e
 
 rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
 
-BASE_PATH: http://dbtek.github.io/dbyll
+BASE_PATH: http://hibbisoft.com/blog/
