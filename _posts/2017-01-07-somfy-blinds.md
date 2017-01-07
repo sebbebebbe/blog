@@ -3,8 +3,7 @@ layout: post
 title: Somfy blinds with Raspberry Pi
 categories: [raspberrypi,nodejs,electronics]
 tags: []
-description: Sample placeholder post.
----
+description: Controlling your blinds with Raspberry Pi
 I´ll begin with a short backstory.
 
 I got motorized blinds installed during the summer but was a bit frustrated that i was not able to control them when I was not home. The point of installing them in the first place was to avoid having the house scorching hot many hours after the sun had gone down. So to solve this problem I had to do something.
@@ -136,3 +135,5 @@ The reason we use sleep() is that it seems the remote does not react to the butt
 <a href="http://www.hibbisoft.com/wp-content/uploads/2015/11/IMG_2864.jpg"><img class="alignleft size-medium wp-image-241" src="http://www.hibbisoft.com/wp-content/uploads/2015/11/IMG_2864-300x200.jpg" alt="IMG_2864" width="300" height="200" /></a>
 
 I hope it will at least inspire someone out there to create more cool gadgets.
+
+---
