@@ -4,6 +4,12 @@ body{
 	color: #2c3e50;
 }
 
+.sidebar-logo{
+	top: 0px;
+	position: absolute;
+	margin-top: 19px;
+}
+
 .sidebar {
 	position: fixed;
 	top: 0px;
